@@ -1,18 +1,19 @@
 # Sistema Solar
 
-![Imagen del Sol](/galeria_de_imagenes/sun.png)
+<img src="galeria de imagenes/sun.png" width=300px height=300px >
 
 El **Sol** es la estrella central de nuestro sistema solar.
 
 ## Tierra
 
-![Imagen de la Tierra](/galeria_de_imagenes/earth.png)
+<img src="Earth.webp" width=300px height=300px >
+
 
 La **Tierra** es nuestro hogar y el único planeta conocido que alberga vida.
 
 ### Luna
 
-![Imagen de la Luna](/galeria_de_imagenes/moon.png)
+![Imagen de la Luna](/moon.png)
 
 La **Luna** es el satélite natural de la Tierra.
 
