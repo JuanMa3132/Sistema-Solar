@@ -1,20 +1,17 @@
 # Sistema Solar
 
-<img src="galeria de imagenes/sun.png" width=300px height=300px >
+Este es un proyecto que simula el **Sistema Solar** utilizando HTML, CSS y JavaScript. El objetivo de este proyecto es representar de forma visual los planetas y su órbita alrededor del sol.
 
-El **Sol** es la estrella central de nuestro sistema solar.
+## Características
 
-## Tierra
+- Visualización interactiva de los planetas.
+- Cada planeta tiene su propia animación de órbita.
+- Representación del Sol como el centro del sistema solar.
 
-<img src="Earth.webp" width=300px height=300px >
+## Instalación
 
+1. Clona este repositorio:
 
-La **Tierra** es nuestro hogar y el único planeta conocido que alberga vida.
-
-### Luna
-
-![Imagen de la Luna](/moon.png)
-
-La **Luna** es el satélite natural de la Tierra.
-
+```bash
+git clone https://github.com/JuanMaG3132/Sistema-Solar.git
 
